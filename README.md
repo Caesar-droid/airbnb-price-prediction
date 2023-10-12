@@ -4,3 +4,9 @@ This project aims to develop a model using linear regression as well as random f
 ## What are the objectives?
 + Build a model used to predict booking prices
 + Compare the performance of the two models: linear regression and random forest regression.
+
+## Conclusion 
+From the models you can see that both models did predict the values,
+however the RMSE of the linear regression model is 222. whereas the RMSE of
+the random forest regression model is 106.19.
+So we can say, Random Forest Regression is better than the Linear Regression model
